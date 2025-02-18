@@ -1,2 +1,3 @@
-0 human
-1 no-human
+0 euro
+1 asia
+2 africa
